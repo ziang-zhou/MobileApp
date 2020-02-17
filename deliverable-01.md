@@ -115,3 +115,16 @@ As an example, he purchases One or more boxes of “Runts” Candy whenever he g
 * Assessment: Nice to have
 
 #### Interview 9:
+Oshan interviewed Sienna Roos Story:
+* Thursday, February 14th
+* Consumer segment: Young, Female, Junior College Student
+* Rarely make impulsive purchases, most purchases are planned.  
+As an example, she always makes a grocery list and sticks to it. However, she might rarely spend impulsively on items such as clothes and cosmetics
+* Even really organized people tend to spend impulsively occasionally.
+* Assessment: Don’t care
+
+# Final Value Proposition and Consumer Segments:
+
+Our application will help make tracking spending at the grocery store and online easier by helping you see your list and making sure you only spend what you have. It will also help you assess the joy and necessity of the items you want to purchase versus what you truly value.
+
+Our target audience will be young adults just starting out and learning how budgeting works best for them. It will help them ensure that they know if they are really making a smart purchase by rating the current purchase on a scale of satisfaction when compared to previous purchases. Further, the app can ask a few simple questions to make sure the buyer is mindful and is making the right decision at the time of purchase.

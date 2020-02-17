@@ -79,6 +79,18 @@ Chenhao Li interviewed Vidal:
 * Nice to have 
 
 #### Interview 6:
+Robin interviewed Lacey Bienz:
+* Friday February 14, 2020
+* Consumer segment: young female college student
+* She doesn't see impulse spending as a problem in her life
+* impulse purchases are always made in physical stores, not online; "When I'm shopping online, I'm always there to buy a specific thing"
+* She couldn't think of an impulse purchase that she regretted
+8 When she is deciding whether to buy something, whether or not it will still be available later is a big factor. This means that she's much more likely to impulse purchase something if it's on sale, or if it is offered for a short time.
+* Impulse purchases are usually food
+* She leaves the grocery store with unplanned items about 60% of the time.
+* Hypotheses that were validated 
+  * people do impulse spend
+* Assessment: Don’t care
 
 #### Interview 7:
 

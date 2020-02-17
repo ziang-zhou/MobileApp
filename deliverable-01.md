@@ -40,8 +40,8 @@ Bailey Erickson interviewed Elie Carlos:
 * __Where/when do you walk out of a store with unplanned purchases?__  
 “ Probably every time I go shopping. I don't always remember what I want to get and I don't usually make a list ”
 * This interview supports 2 of our hypotheses. 
-1. Young adults have a tendency to have some problems with impulsive buying. 
-1. Impulsive buying happens at stores frequented like the grocery store or large retail chains.
+  1. Young adults have a tendency to have some problems with impulsive buying. 
+  1. Impulsive buying happens at stores frequented like the grocery store or large retail chains.
 * Must Have 
 
 #### Interview 3:
@@ -52,8 +52,8 @@ Bailey Erickson interviewed John Unrein:
 * __Is there anything that helps to prevent this for you?__  
 “ When I look at my phone and see I have no money and still owe bills I'll skip purchases, making a list before shopping, and using an account with a limited balance.”
 * This interview supports 2 of our hypotheses.
-1. Young adults have a tendency to have some problems with impulsive buying. 
-1. Impulsive buying happens at stores frequented like the grocery store or large retail chains.
+  1. Young adults have a tendency to have some problems with impulsive buying. 
+  1. Impulsive buying happens at stores frequented like the grocery store or large retail chains.
 * Nice to Have
 
 #### Interview 4:
@@ -61,10 +61,10 @@ Chenhao Li interviewed Zachary Spielberger:
 * Thursday February 13, 2020 afternoon 
 * Young male adult(21)
 * The most impulse shopping here happens at online shopping sites like amazon when there is a great deal of something about electronics. He also impulse shops at target and groceries for his stomach, not his wallet.
-* __How frequently do you give into that temptation?__
+* __How frequently do you give into that temptation?__  
 “More than I would like to admit”
 * Hypotheses: 
- * Young adults will buy something online when they have a great deal, and mostly buy some electronic products. Impulsive buying will happen in some groceries when people feel hungry. 
+  * Young adults will buy something online when they have a great deal, and mostly buy some electronic products. Impulsive buying will happen in some groceries when people feel hungry. 
 * Nice to have
 
 #### Interview 5:
@@ -72,10 +72,10 @@ Chenhao Li interviewed Vidal:
 * Thursday February 13, 2020 afternoon
 * Young male adult
 * The most impulse shopping happens at grocery store purchasing food but also when online shopping on sites like Amazon 
-* __Is there anything that helps to prevent this for you?__
+* __Is there anything that helps to prevent this for you?__  
 “Thinking about how poor I am”
 * Hypotheses:
- * The biggest resistance to impulse consumption is the economic situation. They also like to buy groceries in shops like safeway and most things they bought online are needed.
+* The biggest resistance to impulse consumption is the economic situation. They also like to buy groceries in shops like safeway and most things they bought online are needed.
 * Nice to have 
 
 #### Interview 6:
@@ -93,7 +93,25 @@ Robin interviewed Lacey Bienz:
 * Assessment: Don’t care
 
 #### Interview 7:
+Keil interviewed Zachary Shadwell:
+* Thursday, February 13th
+* Consumer segment: Young, Male, Recent Graduate
+* Prone to Impulse spending when impaired or under the influence.
+* Does not keep track of what/ when they make unplanned purchases.
+* Makes these purchases when already shopping.
+* Hypotheses that were validated:
+  1. People Do Impulse Spend
+  1. People Impulse Spend more frequently in physical locations
+* Assessment: Nice to have
 
 #### Interview 8:
+Keil interviewed Michael Story:
+* Thursday, February 13th
+* Consumer segment: Young, Male, Junior College Student
+* Most impulse purchases are made for snacks or drinks  
+As an example, he purchases One or more boxes of “Runts” Candy whenever he goes to Walmart
+  1. People Do Impulse Spend
+  1. People Impulse Spend more frequently in physical locations
+* Assessment: Nice to have
 
 #### Interview 9:

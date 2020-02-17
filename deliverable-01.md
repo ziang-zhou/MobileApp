@@ -57,8 +57,26 @@ Bailey Erickson interviewed John Unrein:
 * Nice to Have
 
 #### Interview 4:
+Chenhao Li interviewed Zachary Spielberger:
+* Thursday February 13, 2020 afternoon 
+* Young male adult(21)
+* The most impulse shopping here happens at online shopping sites like amazon when there is a great deal of something about electronics. He also impulse shops at target and groceries for his stomach, not his wallet.
+* __How frequently do you give into that temptation?__
+“More than I would like to admit”
+* Hypotheses: 
+ * Young adults will buy something online when they have a great deal, and mostly buy some electronic products. Impulsive buying will happen in some groceries when people feel hungry. 
+* Nice to have
 
 #### Interview 5:
+Chenhao Li interviewed Vidal:
+* Thursday February 13, 2020 afternoon
+* Young male adult
+* The most impulse shopping happens at grocery store purchasing food but also when online shopping on sites like Amazon 
+* __Is there anything that helps to prevent this for you?__
+“Thinking about how poor I am”
+* Hypotheses:
+ * The biggest resistance to impulse consumption is the economic situation. They also like to buy groceries in shops like safeway and most things they bought online are needed.
+* Nice to have 
 
 #### Interview 6:
 

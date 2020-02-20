@@ -1,15 +1,15 @@
 # ***Requirements*** ( *Deliverable-02* )
 
-1. ## Positioning
-    1. ### Problem Statement
+## 1. Positioning
+###    1. Problem Statement
 
-    1. ### Problem Position Statement
+###    1. Problem Position Statement
 
-    1. ### Value Proposition
+###    1. Value Proposition
 
-1. ## Stakeholders
+## 1. Stakeholders
 
-1. ## Functional Requirements ( *features* )
+## 1. Functional Requirements ( *features* )
 
 1. ## Non-Funtional Requirements
 

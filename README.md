@@ -9,7 +9,6 @@ Android Mobile Application for improving an individuals purchasing habits by enc
 * Kotlin
 ## ***[API SERVER](https://github.com/CS386-ImpulseTracker/Server)*** 
 
-
 ## Tracking:
 * **[Trello](https://trello.com/b/X2UE7Wrn/impulse-app)**
 * Discord WebHooks

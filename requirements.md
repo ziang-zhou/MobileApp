@@ -5,7 +5,7 @@
 
   1. ### Problem Position Statement
 
-  1. ### Value Proposition
+  1. ### Value Proposition Prevent people from impulse shopping
 
 ## 2. Stakeholders
 

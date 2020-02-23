@@ -14,6 +14,13 @@
         * Unsustainable purchases.
 
 ## 2. Stakeholders
+  * Project Manager ——  Keil Hubbard
+    
+  * Application Developers ——  Bailey Erickson, Chenhao Li, Robin Applegate,Oshan Wijesooriya 
+  
+  * Testers/Users —— NAU students 
+  
+  * Competitors —— Drnkpay, Urge, finder.com's Icebox 
 
 ## 3. Functional Requirements ( *features* )
   * Add Purchases

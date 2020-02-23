@@ -49,11 +49,10 @@
     * As a user I want to update my financial information (1 hour)
   * Low priority
     * As a user I want help deciding whether I should make a particular purchase (4 hours)
-    * As a user I want to be able to weigh the benefits of buying in the future vs now (2 hours)
-    * As a user I want to share the graph of my purchases on social media (2 hours)
+    * As a user I want to use the app to weigh the benefits of buying in the future vs now (2 hours)
+    * As a user I want to get advice on how to better manage these purchases (3 hours)
+    * As a user I want to search my spending history using keywords (4 hours)
 
 ## 8. Trello
-* ### [MobileApp](https://trello.com/b/X2UE7Wrn/impulse-app)
-    * https://trello.com/b/X2UE7Wrn/impulse-app
-* ### [Server](https://trello.com/b/PRMQZK8a/impulse-server)
-    * https://trello.com/b/PRMQZK8a/impulse-server
+* [MobileApp](https://trello.com/b/X2UE7Wrn/impulse-app)
+* [Server](https://trello.com/b/PRMQZK8a/impulse-server)

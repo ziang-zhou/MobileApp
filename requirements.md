@@ -5,6 +5,8 @@
      Young adults frequently have issues with over-spending related to limited experience with their new luxury of entering the working world: ***Disposable Income***  
 
   1. ### Problem Position Statement
+     Directed at young adults who need to keep track of spending, the Impluse Tracker mobile app provides an easy and intuitive way to track your impluse spending habits, helping you make the right choice with every purchase. 
+    
 
   1. ### Value Proposition 
       This app will help users build healthier spending habits that prevent: 

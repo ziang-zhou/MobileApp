@@ -45,7 +45,7 @@
 
 ## 6. Use Cases
   1. ### Use Case Diagram
-    ![USE Case Diagram](https://github.com/CS386-ImpulseTracker/MobileApp/blob/master/img/use-cases.jpg)
+![USE Case Diagram](/img/use-cases.jpg)
   1. ### Use Case Descriptions
   * **Use-Cases**
     * Use-Case: Add Past Purchase

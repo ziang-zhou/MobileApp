@@ -28,17 +28,20 @@
    Competitors —— Drnkpay, Urge, finder.com's Icebox 
   * These competitors have the same aim like our product—— help people avoid impulse shopping, however the Drnkpay can only help people who are drunk, and finder.com's Icebox is a plugin which can only apply for online shopping. We will make our application based on these competitors and make more differences.
 ## 3. Functional Requirements ( *features* )
-  * Add Purchases
-  * Add Personal Information
-  * Add Financial Information
-  * View Purchases
-  * View Graphical Representations of Purchases
-  * Search Spending History
+  1. Add Purchases
+  2. Add Personal Information
+  3. Add Financial Information
+  4. View Purchases
+  5. View Graphical Representations of Purchases
+  6. Search Spending History
 
 ## 4. Non-Funtional Requirements
-  * Store Purchase History
-  * Store Personal Information
-  * Store Minimal Finacial History
+  1. Performance
+    * load purchase list in less than 3 seconds
+  2. Availability
+    * be able to see list or graph in 2 taps or less
+  3. Capacity
+    * be able to store 500 purchases
 
 ## 5. MVP ( *Minimum Viable Product* )
   We as a group are going to makesure that we keep the app very simple and then build up from there. We will do a lot of testing and only make sure that we are pushing code that is functional to the GitHub Repository. We want to also make sure we keep track of who is doing what so we can have an easier way to track issues back to the creator. For our requirements we will make sure that we start with the requirements that matter most to us to integrate into the application and then if we have the time and resources we will work on the ore complex features in our application. 

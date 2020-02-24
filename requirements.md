@@ -120,15 +120,6 @@
       8. User defines "value item"
       9. App stores value item and all info for later use  
       <hr/>
-    * Use-Case: 
-    * Actor:
-    * Description:
-    * Pre-Conditions:
-    * Post Conditions:
-    * Flow:  
-      1.   
-      2.   
-      3.   
 
 ## 7. User Stories
   * High priority

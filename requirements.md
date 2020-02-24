@@ -17,7 +17,7 @@
 
 ## 2. Stakeholders
    Project Manager ——  Keil Hubbard
-  *  Responsible for product design and division of staff, and  and character arrangements and resource integration for the next week.
+  *  Responsible for product design and division of staff, as well as character arrangements and resource integration for the next week.
     
    Application Developers ——  Bailey Erickson, Chenhao Li, Robin Applegate,Oshan Wijesooriya 
   * Develop different parts of the product and Gather information and acquire necessary knowledge，developers should also test the software.

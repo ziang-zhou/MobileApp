@@ -28,12 +28,18 @@
 ## 3. Functional Requirements ( *features* )
   * Add Purchases
   * Add Personal Information
+  * Add Financial Information
   * View Purchases
+  * View Graphical Representations of Purchases
+  * Search Spending History
 
 ## 4. Non-Funtional Requirements
   * Store Purchase History
+  * Store Personal Information
+  * Store Minimal Finacial History
 
 ## 5. MVP ( *Minimum Viable Product* )
+  We as a group are going to makesure that we keep the app very simple and then build up from there. We will do a lot of testing and only make sure that we are pushing code that is functional to the GitHub Repository. We want to also make sure we keep track of who is doing what so we can have an easier way to track issues back to the creator. For our requirements we will make sure that we start with the requirements that matter most to us to integrate into the application and then if we have the time and resources we will work on the ore complex features in our application. 
 
 ## 6. Use Cases
   1. ### Use Case Diagram

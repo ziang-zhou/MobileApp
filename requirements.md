@@ -36,11 +36,11 @@
   6. Search Spending History
 
 ## 4. Non-Funtional Requirements
-  1. Performance
+  1. Performance  
     * load purchase list in less than 3 seconds
-  2. Availability
+  2. Availability  
     * be able to see list or graph in 2 taps or less
-  3. Capacity
+  3. Capacity  
     * be able to store 500 purchases
 
 ## 5. MVP ( *Minimum Viable Product* )

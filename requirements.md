@@ -90,8 +90,8 @@
           <hr/>
     * Use-Case: Add Past Purchase
     * Actor: General User
-    * Description: User adds a purchase that they have made in the past to be evaluated
-    * Pre-Conditions: User Has Installed the App and created a basic profile, App is open
+    * Description: User adds a purchase that they have made in the past to be evaluated.
+    * Pre-Conditions: User Has Installed the App and created a basic profile, App is open.
     * Post Conditions: The User confirms the details have been submitted and closes the app.
     * Flow:  
       1. User selects the add purchase option
@@ -105,6 +105,22 @@
       9. Purchase is added to history graph
       <hr/>
     * Use-Case: Create A Personal Profile
+    * Actor: General User
+    * Description: User creates a personal profile to be user for later comparisons.
+    * Pre-Conditions: User Has Installed the App, App is open.
+    * Post Conditions: User confirms their personal info is correct and close the app or continue to adding a purchase
+    * Flow:  
+      1. User Opens the app for the first time
+      2. App prompts user to create their profile
+      3. User accepts the on screen prompt
+      4. App prompts user for basic info (Name, age...)
+      5. User enters information as promted
+      6. User enters simplified financial information
+      7. App prompts user to define their "value item"
+      8. User defines "value item"
+      9. App stores value item and all info for later use  
+      <hr/>
+    * Use-Case: 
     * Actor:
     * Description:
     * Pre-Conditions:

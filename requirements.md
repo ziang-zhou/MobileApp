@@ -48,15 +48,45 @@
 
   1. ### Use Case Descriptions
   * **Use-Cases**
-    * Use-Case:
-    * Actor:
-    * Description:
-    * Pre-Conditions:
-    * Post Conditions:
+    * Use-Case: Delete a past purchase
+    * Actor: User
+    * Description: Remove a previously entered purchase from the app
+    * Pre-Conditions: Purchase is entered into app
+    * Post Conditions: Purchase is no longer in app
     * Flow:  
-      1.   
-      2.   
-      3.    
+      1. User navigates to list of purchases
+      2. User selects purchase to be deleted
+      3. System shows details of the purchase
+      4. User chooses to delete purchase
+      5. System asks for confirmation
+      6. User confirms
+      7. System deletes purchase
+      8. System returns user to list of purchases
+    * Alternative Flows:
+      6.1. User cancels
+        1. System return user to list of purchases
+
+    * Use-Case: Edit a past purchase
+    * Actor: User
+    * Description: Change the details of a previously entered purchase
+    * Pre-Conditions: Purchase is entered into app
+    * Post Conditions: Purchase details changed
+    * Flow:  
+      1. User navigates to list of purchases
+      2. User selects purchase to be edited
+      3. System shows details of the purchase
+      4. User chooses to edit purchase
+      5. System shows details of purchase with editable fields
+      6. User makes desired changes
+      7. User saves changes
+      8. System returns user to purchase details
+    * Alternative Flows:
+      7.1 User exits without saving
+        1. System asks for confirmation
+        2. User confirms
+        3. System returns user to purchase details, without saving changees
+          2.1 User cancels
+            1. System returns user to edit screen, preserving any changes
 
 ## 7. User Stories
   * High priority

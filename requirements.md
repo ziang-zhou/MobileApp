@@ -44,9 +44,9 @@
   We as a group are going to makesure that we keep the app very simple and then build up from there. We will do a lot of testing and only make sure that we are pushing code that is functional to the GitHub Repository. We want to also make sure we keep track of who is doing what so we can have an easier way to track issues back to the creator. For our requirements we will make sure that we start with the requirements that matter most to us to integrate into the application and then if we have the time and resources we will work on the ore complex features in our application. 
 
 ## 6. Use Cases
-  1. ### Use Case Diagram
+    ### 1. Use Case Diagram
 ![USE Case Diagram](/img/use-cases.jpg)
-  1. ### Use Case Descriptions
+    ### 2. Use Case Descriptions
   * **Use-Cases**
     * Use-Case: Delete a past purchase
     * Actor: User

@@ -1,0 +1,2 @@
+rootProject.name='Impulse_Tracker'
+include ':app'

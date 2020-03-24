@@ -5,8 +5,8 @@
 Android Mobile Application for improving an individuals purchasing habits by encouraging additional considerations before purchase. Assigns a rating to past and/ future purchases based on values provided by the user
 
 ## Made With:
-* AndroidStudio 3.5.3
-* Kotlin
+* AndroidStudio 3.6
+* Java
 ## ***[API SERVER](https://github.com/CS386-ImpulseTracker/Server)*** 
 
 ## Tracking:

@@ -23,13 +23,15 @@
             android:layout_marginTop="24dp"
             android:layout_marginEnd="32dp"
             android:layout_marginBottom="24dp"
+            android:background="@android:drawable/btn_default"
             android:backgroundTint="#48C6FF"
+            android:backgroundTintMode="src_over"
             android:text="Plan Purchase"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:typeface="normal"
             android:visibility="visible"
-            app:layout_constraintBottom_toTopOf="@+id/frameLayout"
+            app:layout_constraintBottom_toTopOf="@+id/homeHistoryGraph"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/addPurchaseBtn"
@@ -42,6 +44,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="24dp"
             android:layout_marginEnd="32dp"
+            android:background="@android:drawable/btn_default"
             android:backgroundTint="#48C6FF"
             android:text="Add Purchase"
             android:textColor="#FFFFFF"
@@ -53,7 +56,7 @@
             tools:visibility="visible" />
 
         <FrameLayout
-            android:id="@+id/frameLayout"
+            android:id="@+id/homeHistoryGraph"
             android:layout_width="320dp"
             android:layout_height="320dp"
             android:layout_marginStart="32dp"
@@ -76,7 +79,8 @@
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
             android:layout_marginBottom="24dp"
-            android:background="#48C6FF"
+            android:background="@android:drawable/btn_default"
+            android:backgroundTint="#48C6FF"
             android:text="My Profile"
             android:textColor="#FFFFFF"
             android:textColorLink="#FFFFFF"
@@ -86,7 +90,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/frameLayout"
+            app:layout_constraintTop_toBottomOf="@+id/homeHistoryGraph"
             tools:visibility="visible" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>

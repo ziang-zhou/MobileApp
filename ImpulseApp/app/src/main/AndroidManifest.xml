@@ -16,6 +16,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <activity android:name=".PageDefaults">
+
+        </activity>
+
+
+        <activity android:name=".AddPurchase">
+
+        </activity>
+
+
+        <activity android:name=".PlanPurchase">
+
+        </activity>
+
+        <activity android:name=".ViewHistory">
+
+        </activity>
+
+        <activity android:name=".ViewProfile">
+
+        </activity>
     </application>
 
 </manifest>

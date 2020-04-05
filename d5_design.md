@@ -6,10 +6,9 @@ Our application is an impulse tracker application for android phones and tablets
 This application will require the user to have a username, email, and password for the user to login to the application. The application will also allow for the user to input, delete, and modify their personal information, financial information and purchases. This application will also allow the user to search their entered purchase history which contains all the purchases they have entered. When searched for, the app will display the resulting purchase(s) and the user can then delete or modify the purchase if they need to. Based on this purchase history the application will create a graphical depiction of how the user is spending their money.
 
 
-## 2. Architecture. ( _OshanW_ )
-
-## 1.Architecture Diagram
-![Architecture Diagram](./img/Architecture.png)
+## 2. Architecture.
+  ## Architecture Diagram
+  ![Architecture Diagram](./img/Architecture.png)
 
 ## 3. Class Diagram ( __Unclaimed__ - _ShouldBeShared_ )
 

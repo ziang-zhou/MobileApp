@@ -8,6 +8,9 @@ This application will require the user to have a username, email, and password f
 
 ## 2. Architecture. ( _OshanW_ )
 
+## 1.Architecture Diagram
+![Architecture Diagram](./img/Architecture.png)
+
 ## 3. Class Diagram ( __Unclaimed__ - _ShouldBeShared_ )
 
 ## 4. Sequence Diagram ( _KeilH_ )

@@ -16,7 +16,8 @@ This application will require the user to have a username, email, and password f
   ![refined UML](./img/d5_rfUML.png)
 
 ## 4. Sequence Diagram
+  ![CreateProfile Sequence](./img/sequenceDiagram.png) 
 
-## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
+## 5. Design Patterns 
 
-## 6. Design Principals ( _MustBeShared_ )
+## 6. Design Principals

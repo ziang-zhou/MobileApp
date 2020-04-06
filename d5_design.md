@@ -10,9 +10,11 @@ This application will require the user to have a username, email, and password f
   ## Architecture Diagram
   ![Architecture Diagram](./img/Architecture.png)
 
-## 3. Class Diagram ( __Unclaimed__ - _ShouldBeShared_ )
+## 3. Class Diagram 
+  ## UML
+  ![refined UML](./img/d5_rfUML.png)
 
-## 4. Sequence Diagram ( _KeilH_ )
+## 4. Sequence Diagram
 
 ## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
 

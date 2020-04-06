@@ -20,3 +20,6 @@ This application will require the user to have a username, email, and password f
 ## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
 
 ## 6. Design Principals ( _MustBeShared_ )
+Single Responsibility: the PlanPurchase will only store the items which we plan to buy. [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/java/com/example/impulseapp/PlanPurchase.java/)
+
+Dependency Inversion Principle: The code follows this principle because the Server and Data handling do not depend on the clients to do anything. They simply process requests from the user devices and work on enqueuing the request.[link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/build.gradle/)

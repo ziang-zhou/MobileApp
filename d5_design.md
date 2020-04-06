@@ -9,12 +9,13 @@ This application will require the user to have a username, email, and password f
 ## 2. Architecture.
   ## Architecture Diagram
   ![Architecture Diagram](./img/Architecture.png)
-
   For our architecture we decided to use a layered structure. We found this to be the best option due to it's simplicity and readability. The software can be brokenvdown into a 4 layers which we can work on seperately, this also helps with debugging and testing. This architecture allows us to build our software faster and make it more reliable product in a short period of time. Although the architecture provides alot of benefits, it might prove to be hard to scale due to inherit qualities of it's architecture. Overall, we belive this is the best structure for our app.
+  
+## 3. Class Diagram 
+  ## UML
+  ![refined UML](./img/d5_rfUML.png)
 
-## 3. Class Diagram ( __Unclaimed__ - _ShouldBeShared_ )
-
-## 4. Sequence Diagram ( _KeilH_ )
+## 4. Sequence Diagram
 
 ## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
 

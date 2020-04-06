@@ -17,4 +17,5 @@ This application will require the user to have a username, email, and password f
 ## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
 
 ## 6. Design Principals ( _MustBeShared_ )
-Single Responsibility: the PlanPurchase will only store the items which we plan to buy.https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/java/com/example/impulseapp/PlanPurchase.java/link
+Single Responsibility: the PlanPurchase will only store the items which we plan to buy. [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/java/com/example/impulseapp/PlanPurchase.java/)
+

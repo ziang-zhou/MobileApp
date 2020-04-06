@@ -19,6 +19,10 @@ This application will require the user to have a username, email, and password f
   ![CreateProfile Sequence](./img/sequenceDiagram.png) 
 
 ## 5. Design Patterns 
+Design Pattern 1: (Creational) Singleton - [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/AndroidManifest.xml/) only one static instance
+of the Userprofile class is allowed because of the private constructor 
+
+![UserProfile](./img/UserProfile.png)
 
 ## 6. Design Principals
 Single Responsibility: the PlanPurchase will only store the items which we plan to buy. [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/java/com/example/impulseapp/PlanPurchase.java/)

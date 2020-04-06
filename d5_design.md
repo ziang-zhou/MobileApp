@@ -6,10 +6,11 @@ Our application is an impulse tracker application for android phones and tablets
 This application will require the user to have a username, email, and password for the user to login to the application. The application will also allow for the user to input, delete, and modify their personal information, financial information and purchases. This application will also allow the user to search their entered purchase history which contains all the purchases they have entered. When searched for, the app will display the resulting purchase(s) and the user can then delete or modify the purchase if they need to. Based on this purchase history the application will create a graphical depiction of how the user is spending their money.
 
 
-## 2. Architecture. ( _OshanW_ )
+## 2. Architecture.
+  ## Architecture Diagram
+  ![Architecture Diagram](./img/Architecture.png)
 
-## 1.Architecture Diagram
-![Architecture Diagram](./img/Architecture.png)
+  For our architecture we decided to use a layered structure. We found this to be the best option due to it's simplicity and readability. The software can be brokenvdown into a 4 layers which we can work on seperately, this also helps with debugging and testing. This architecture allows us to build our software faster and make it more reliable product in a short period of time. Although the architecture provides alot of benefits, it might prove to be hard to scale due to inherit qualities of it's architecture. Overall, we belive this is the best structure for our app.
 
 ## 3. Class Diagram ( __Unclaimed__ - _ShouldBeShared_ )
 

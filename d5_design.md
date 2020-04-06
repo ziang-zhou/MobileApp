@@ -15,5 +15,7 @@ This application will require the user to have a username, email, and password f
 ## 4. Sequence Diagram ( _KeilH_ )
 
 ## 5. Design Patterns ( __Unclaimed__ - _ShouldBeShared_ )
+Design Pattern 1: (Creational) Singleton - [link](https://github.com/CS386-ImpulseTracker/MobileApp/blob/stage_design/ImpulseApp/app/src/main/AndroidManifest.xml/) only one static instance
+of the Userprofile class is allowed because of the private constructor
 
 ## 6. Design Principals ( _MustBeShared_ )

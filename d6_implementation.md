@@ -1,8 +1,8 @@
 # D6 Implementation 2
 
 ## Introduction 
-The value proposition of our software is to help users build healthier spending habits that prevent Regret, Impulse,Under-planning
-and Unsustainable purchases. And our software will be a mobile phone application which built by Android Studio. Each user can have a account that record the goods they have purchased or want to purchase in the future. This app will allow for the user(s) to enter, update, and delete purchases that they have made, these purchases will help construct a graph of te users purchase history to help with healthier spending habits and promote more financial stability.
+The value proposition of our software is to help users build healthier spending habits that prevent Regret, impulse, under-planning
+and unsustainable purchases. And our software will be a mobile phone application which built by Android Studio. Each user can have a account that record the goods they have purchased or want to purchase in the future. This app will allow for the user(s) to enter, update, and delete purchases that they have made, these purchases will help construct a graph of te users purchase history to help with healthier spending habits and promote more financial stability.
 ### Links
 GitHub: <https://github.com/CS386-ImpulseTracker>
 

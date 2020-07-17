@@ -5,7 +5,7 @@ Our application will be an impulse tracker application for android phones and ta
 The Impulse Tracker mobile app provides an easy and intuitive way to track your impulse spending habits, helping you make the right choice with every purchase.
 This app will help the user build healthier spending habits that prevent regret, impulsive spending, under-planning, and unsustainable purchases. 
 
-This application will require the user to have a <u>username</u>, <u>email</u>, and <u>password</u> for **user login**. The application will allow for the user to <u>input</u>, <u>delete</u>, and <u>modify</u> **user information**, **financial information** and **purchases** as well as <u>create</u> **purchases** for the future and present.   
+This application will require the user to have a <u>username</u>, <u>email</u>, and <u>password</u> for user login. The application will allow for the user to <u>input</u>, <u>delete</u>, and <u>modify</u> **user information**, **financial information** and **purchases** as well as <u>create</u> **purchases** for the future and present.   
 
 This application will also allow for users to search their their **purchase history** which contains all their **purchases**. Once a particular **purchase** is found the **search function** will <u>display the resulting</u> **purchase** and the user can then <u>delete</u> or <u>modify</u> the **purchase**.
 
